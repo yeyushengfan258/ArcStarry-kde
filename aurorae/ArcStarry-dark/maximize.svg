@@ -6,7 +6,7 @@
    version="1.1"
    style="enable-background:new"
    sodipodi:docname="maximize.svg"
-   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
+   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20, custom)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:xlink="http://www.w3.org/1999/xlink"
@@ -68,14 +68,14 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1920"
-     inkscape:window-height="1003"
+     inkscape:window-height="959"
      id="namedview20"
      showgrid="true"
-     inkscape:zoom="11.313709"
-     inkscape:cx="8.9714169"
-     inkscape:cy="44.105784"
+     inkscape:zoom="8.0000004"
+     inkscape:cx="-13.062499"
+     inkscape:cy="38.624998"
      inkscape:window-x="0"
-     inkscape:window-y="0"
+     inkscape:window-y="40"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg4306"
      inkscape:snap-bbox="true"
@@ -98,6 +98,10 @@
      height="100%" />
   <g
      id="active-center">
+    <path
+       style="color:#000000;fill:#256392;fill-opacity:1;stroke-width:1.29412;stroke-linecap:round;-inkscape-stroke:none"
+       d="M 0,0 H 22 V 22 H 0 Z"
+       id="rect847" />
     <rect
        ry="0"
        rx="0"
@@ -109,8 +113,8 @@
        style="opacity:0;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke" />
     <path
        id="rect1722"
-       style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke-linejoin:round"
-       d="M 8 7 L 8 15 L 14 15 L 14 7 L 8 7 z M 8.6074219 7.6796875 L 13.392578 7.6796875 L 13.392578 14.320312 L 8.6074219 14.320312 L 8.6074219 7.6796875 z " />
+       style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke-linejoin:round"
+       d="m 8,7 v 8 h 6 V 7 Z M 8.6074219,7.6796875 H 13.392578 V 14.320312 H 8.6074219 Z" />
   </g>
   <g
      id="hover-center">
@@ -122,7 +126,7 @@
        x="4.8794135e-07"
        y="27" />
     <rect
-       style="opacity:0.1;fill:#ebebeb;fill-opacity:1;stroke:none;stroke-width:1.29412;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="opacity:1;fill:#358bca;fill-opacity:1;stroke:none;stroke-width:1.29412;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="rect867"
        width="22"
        height="22"
@@ -145,7 +149,7 @@
        x="4.8794135e-07"
        y="27" />
     <rect
-       style="opacity:0.15;fill:#ebebeb;fill-opacity:1;stroke:none;stroke-width:1.29412;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="opacity:1;fill:#153651;fill-opacity:1;stroke:none;stroke-width:1.29412;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="rect4041"
        width="22"
        height="22"

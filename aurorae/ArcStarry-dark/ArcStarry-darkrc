@@ -25,7 +25,7 @@ ButtonWidthMaximizeRestore=40
 ButtonWidthMinimize=40
 
 ButtonHeight=26
-ButtonSpacing=14
+ButtonSpacing=0
 ButtonMarginTop=-4
 ButtonMarginLeft=0
 ButtonMarginRight=0

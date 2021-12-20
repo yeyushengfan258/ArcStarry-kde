@@ -6,7 +6,7 @@
    version="1.1"
    style="enable-background:new"
    sodipodi:docname="restore.svg"
-   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
+   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20, custom)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:xlink="http://www.w3.org/1999/xlink"
@@ -39,14 +39,14 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1920"
-     inkscape:window-height="1003"
+     inkscape:window-height="963"
      id="namedview20"
      showgrid="true"
-     inkscape:zoom="5.6568542"
-     inkscape:cx="-4.1542524"
-     inkscape:cy="34.825009"
+     inkscape:zoom="7.9999996"
+     inkscape:cx="11.812501"
+     inkscape:cy="43.875002"
      inkscape:window-x="0"
-     inkscape:window-y="0"
+     inkscape:window-y="40"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg4306"
      inkscape:document-rotation="0"
@@ -55,7 +55,7 @@
      inkscape:snap-bbox-edge-midpoints="true"
      inkscape:pagecheckerboard="0"
      inkscape:snap-smooth-nodes="true"
-     inkscape:snap-nodes="false">
+     inkscape:snap-nodes="true">
     <inkscape:grid
        type="xygrid"
        id="grid74" />
@@ -70,6 +70,14 @@
      height="100%" />
   <g
      id="active-center">
+    <rect
+       style="fill:#256392;fill-opacity:1;fill-rule:evenodd;stroke-linecap:round;stroke-linejoin:round"
+       id="rect872"
+       width="22"
+       height="22"
+       x="0"
+       y="0"
+       ry="0" />
     <rect
        ry="0"
        rx="0"
@@ -112,7 +120,7 @@
        id="rect909"
        style="display:inline;fill:none;fill-opacity:1;stroke:none;stroke-width:1.375;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0" />
     <rect
-       style="opacity:0.1;fill:#ebebeb;fill-opacity:1;stroke:none;stroke-width:1.29412;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="opacity:1;fill:#358bca;fill-opacity:1;stroke:none;stroke-width:1.29412;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="rect911"
        width="22"
        height="22"
@@ -157,7 +165,7 @@
        id="rect1632"
        style="display:inline;fill:none;fill-opacity:1;stroke:none;stroke-width:1.375;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0" />
     <rect
-       style="opacity:0.15;fill:#ebebeb;fill-opacity:1;stroke:none;stroke-width:1.29412;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="opacity:1;fill:#153651;fill-opacity:1;stroke:none;stroke-width:1.29412;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="rect1634"
        width="22"
        height="22"
