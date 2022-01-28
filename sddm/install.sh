@@ -38,6 +38,7 @@ prompt () {
 # Checking for root access and proceed if it is present
 if [ "$UID" -eq "$ROOT_UID" ]; then
   prompt -i "\n * Install ArcStarry-dark in ${THEME_DIR}... "
+  rm -rf "${THEME_DIR}/ArcStarry-dark"
   cp -r "${REO_DIR}/ArcStarry-dark" "${THEME_DIR}"
   # Success message
   prompt -s "\n * All done!"
